@@ -1,0 +1,119 @@
+Test (2A): initial election ...
+Vote requesting?
+1 0 -1 0 16
+Vote requesting?
+1 0 -1 21 16
+Vote requesting?
+1 0 -1 40 16
+Vote requesting?
+Vote requesting?
+1 0 -1 26 16
+Vote requesting?
+1 0 -1 1 16
+Vote requesting?
+1 0 -1 19 16
+Vote requesting?
+1 0 -1 28 16
+Vote requesting?
+1 0 -1 41 16
+Vote requesting?
+1 0 -1 51 16
+Vote requesting?
+1 0 -1 30 16
+Vote requesting?
+1 0 -1 25 16
+Vote requesting?
+1 0 -1 3 16
+Vote requesting?
+1 0 -1 29 16
+Vote requesting?
+1 0 -1 24 16
+Vote requesting?
+Vote requesting?
+1 0 -1 20 16
+Vote requesting?
+1 0 -1 27 16
+1 0 -1 50 16
+Vote requesting?
+1 0 -1 22 16
+Vote requesting?
+1 0 -1 53 16
+Vote requesting?
+1 0 -1 23 16
+1 0 -1 2 16
+Vote requesting?
+1 0 -1 52 16
+Vote requesting?
+1 0 -1 6 16
+Vote requesting?
+1 0 -1 5 16
+Vote requesting?
+1 0 -1 31 16
+Vote requesting?
+1 0 -1 4 16
+Vote requesting?
+1 0 -1 7 16
+Vote requesting?
+1 0 -1 8 16
+Vote requesting?
+1 0 -1 33 16
+Vote requesting?
+1 0 -1 32 16
+Vote requesting?
+1 0 -1 34 16
+Vote requesting?
+1 0 -1 42 16
+Vote requesting?
+1 0 -1 10 16
+Vote requesting?
+1 0 -1 9 16
+Vote requesting?
+1 0 -1 35 16
+Vote requesting?
+Vote requesting?
+1 0 -1 11 16
+Vote requesting?
+1 0 -1 36 16
+Vote requesting?
+1 0 -1 43 16
+Vote requesting?
+1 0 -1 44 16
+Vote requesting?
+1 0 -1 37 16
+Vote requesting?
+1 0 -1 12 16
+Vote requesting?
+1 0 -1 45 16
+Vote requesting?
+1 0 -1 13 16
+1 0 -1 54 16
+Vote requesting?
+1 0 -1 47 16
+Vote requesting?
+1 0 -1 14 16
+Vote requesting?
+1 0 -1 46 16
+Vote requesting?
+1 0 -1 48 16
+Vote requesting?
+1 0 -1 15 16
+Vote requesting?
+1 0 -1 38 16
+Vote requesting?
+1 0 -1 49 16
+Vote requesting?
+1 0 -1 39 16
+Vote requesting?
+1 0 -1 17 16
+Vote requesting?
+1 0 -1 18 16
+16  won!  55  /  55  THE TERM WAS  1
+1 [16]
+  ... Passed
+Test (2A): election after network failure ...
+Vote requesting?
+1 0 -1 2 0
+Vote requesting?
+1 0 -1 1 0
+0  won!  3  /  3  THE TERM WAS  1
+1 [0]
